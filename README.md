@@ -16,3 +16,8 @@ python calc_keir_flexibility_idx.py xxx.xyz
  - J. Chem. Inf. Comput. Sci. 1996, 36, 711-716
 
 
+## test
+
+![figure](https://github.com/user-attachments/assets/4646e530-972e-42e5-ae3b-26d31574189e)
+
+Literature values were taken from J. Chem. Inf. Comput. Sci. 1996, 36, 711-716.
