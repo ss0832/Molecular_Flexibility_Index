@@ -1,0 +1,1 @@
+These molecules are optimized at the level of ωB97XD/def2SVP.
